@@ -1,0 +1,9 @@
+[book]
+authors = ["Mikhail Dunaev"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Конспекты по ТерВеру"
+
+[output.html]
+mathjax-support = true
